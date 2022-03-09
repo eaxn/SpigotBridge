@@ -1,0 +1,7 @@
+package de.mangosaftlama.spigotbridge;
+
+import org.bukkit.plugin
+
+public class Bridge extends JavaPlugin {
+
+}

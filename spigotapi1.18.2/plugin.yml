@@ -1,0 +1,4 @@
+name: "SpigotBridge"
+author: Jann Pächnatz
+version: 1.0
+main: de.mangosaftlama.bridge.plugin.SpigotBridge

@@ -1,0 +1,2 @@
+set language to english
+if 1 is bigger than 2, than output the sum of these two numbers.

@@ -1,0 +1,6 @@
+package de.mangosaftlama.spigotbridge;
+
+
+public class Bridge extends JavaPlugin {
+
+}
