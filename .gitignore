@@ -2,3 +2,6 @@
 ./server/*
 /server
 /server/*
+.metadata/
+/.medadata/
+/.medadata
